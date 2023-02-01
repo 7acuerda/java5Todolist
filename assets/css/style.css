@@ -1,0 +1,16 @@
+body {
+background-color: rgb(177, 99, 5);
+}
+
+.container{
+    color: rgb(61, 61, 61);
+}
+
+.th{
+    color: brown;
+}
+
+.tab1{
+    text-align: center;
+    font-size: 1.5rem;
+}
